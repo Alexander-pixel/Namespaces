@@ -1,0 +1,5 @@
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Namespaces HW/Namespaces HW/bin/Debug/Namespaces_HW.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Namespaces HW/Namespaces HW/bin/Debug/Namespaces_HW.pdb
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Namespaces HW/Namespaces HW/obj/Debug/Namespaces HW.csprojAssemblyReference.cache
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Namespaces HW/Namespaces HW/obj/Debug/Namespaces_HW.exe
+/Users/aleksandrtkacenko/Desktop/Шаг/C#/Namespaces HW/Namespaces HW/obj/Debug/Namespaces_HW.pdb
